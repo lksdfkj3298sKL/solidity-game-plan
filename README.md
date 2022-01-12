@@ -14,5 +14,5 @@ End: 4/11/2022
 After learning enough basics, start contributing. Apply for grants, submit PRs, and do whatever. Update this doc to update goal.
 
 ### Logs
-1/11/2022: Locked in game-plan. Time to get coding. Setup [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) complete. Finished [mapping](https://solidity-by-example.org/).
-1/12/2022: Spent 4.5 hours following [this](https://solidity-by-example.org/). Finished [multi-sig wallet](https://solidity-by-example.org/app/multi-sig-wallet/). Much more confident now!
+- 1/11/2022: Locked in game-plan. Time to get coding. Setup [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) complete. Finished [mapping](https://solidity-by-example.org/).
+- 1/12/2022: Spent 4.5 hours following [this](https://solidity-by-example.org/). Finished [multi-sig wallet](https://solidity-by-example.org/app/multi-sig-wallet/). Much more confident now!
