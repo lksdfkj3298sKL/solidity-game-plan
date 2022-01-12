@@ -13,5 +13,5 @@ End: 1/11/2022
 
 After learning enough basics, start contributing. Apply for grants, submit PRs, and do whatever. Update this doc to update goal.
 
-**Logs**
+### Logs
 1/11/2022: Locked in game-plan. Time to get coding. Setup [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) complete. Finished [mapping](https://solidity-by-example.org/).
