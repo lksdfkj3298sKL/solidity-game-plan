@@ -9,7 +9,7 @@ Best use of my time is to learn Ethereum (solidity) dev only. A little bit of FE
 Goal is to be able to code 'anything' (esp defi) with confidence in **3 months from now**.
 
 Start: 1/11/2022
-End: 1/11/2022
+End: 4/11/2022
 
 After learning enough basics, start contributing. Apply for grants, submit PRs, and do whatever. Update this doc to update goal.
 
