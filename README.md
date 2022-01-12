@@ -5,3 +5,13 @@ Best use of my time is to learn Ethereum (solidity) dev only. A little bit of FE
 - Follow [this](https://docs.scaffoldeth.io/scaffold-eth/)
 - Spend **4 hours a day** coding and going through other peoples' codebases
 - Don't spend time degenning. HODL whatever I have. Discord/Twitter/etc is mostly waste of time atm. Use Stackoverflow for questions, and sure use Twitter to get updates on what's happening.
+
+Goal is to be able to code 'anything' (esp defi) with confidence in **3 months from now**.
+
+Start: 1/11/2022
+End: 1/11/2022
+
+After learning enough basics, start contributing. Apply for grants, submit PRs, and do whatever. Update this doc to update goal.
+
+**Logs**
+1/11/2022: Locked in game-plan. Time to get coding.
