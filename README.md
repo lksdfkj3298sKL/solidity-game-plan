@@ -19,4 +19,4 @@ After learning enough basics, start contributing. Apply for grants, submit PRs, 
 - 1/13/2022: Ugh spent like 3 hours working on [this](https://solidity-by-example.org/app/merkle-tree)... but I finally got it. Main issue was odd number of nodes in the Merkle tree was constructed incorrectly with the algorithm provided. Learning: I should have re-reviewed Merkle Tree construction again with the odd numbers to understand what was going wrong instead of trying to tweak the inputs of verification method to have a valid output.
 - 1/14/2022: No work
 - 1/15/2022: Only did 3 hrs work. Stopped at ERC721
-- 1/16/2022: Only 3 hrs work :(
+- 1/16/2022: Only 1 hour. Got distracted w/surfing Escort websites and porn :(. Missed opportunity.
