@@ -20,3 +20,29 @@ After learning enough basics, start contributing. Apply for grants, submit PRs, 
 - 1/14/2022: No work
 - 1/15/2022: Only did 3 hrs work. Stopped at ERC721
 - 1/16/2022: Only 1 hour. Got distracted w/surfing Escort websites and porn :(. Missed opportunity.
+
+
+
+
+
+### Contract Creation (notes) (1/17/2022)
+#### Accounts:
+* Can be external or contract accounts
+* All contain addresses
+* Only external accounts have corresponding private keys
+* All contain balance, nonce, bytecode, sorage data
+* Nonce gets incremented at every OUTGOING transaction, starting with 0. Ex. 10 outgoing transactions => 9 nonce.
+* Bytecode & stoarge data is empty for external accounts
+* For contract accounts, storage data is root of merkle tree
+
+#### Contract creation:
+- Contracts creation is done by sending a transaction to address 0 with compiled bytecode as the payload data.
+- The bytecode contains <initcode><runtime_code>params
+- Contract creation happens in this order:
+-- EVM creates contract account with the address corresponding to hash of sender address + nonce
+-- The initializtion code is executed, and the returned array of bytes (ie bytecode) is stored as the bytecode of the contract account.
+
+#### Initialization code:
+- Set up contract code (ex initialize state variables)
+- Place runtime bytecode somewhere in the memory and add appropriate metadata on stack to help EVM refer to that bytecode (ie offset + length).
+- Once placed in memory, executes return statement with the metadata on stack.
