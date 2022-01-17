@@ -39,8 +39,8 @@ After learning enough basics, start contributing. Apply for grants, submit PRs, 
 - Contracts creation is done by sending a transaction to address 0 with compiled bytecode as the payload data.
 - The bytecode contains <initcode><runtime_code>params
 - Contract creation happens in this order:
--- EVM creates contract account with the address corresponding to hash of sender address + nonce
--- The initializtion code is executed, and the returned array of bytes (ie bytecode) is stored as the bytecode of the contract account.
+  - EVM creates contract account with the address corresponding to hash of sender address + nonce
+  - The initializtion code is executed, and the returned array of bytes (ie bytecode) is stored as the bytecode of the contract account.
 
 #### Initialization code:
 - Set up contract code (ex initialize state variables)
