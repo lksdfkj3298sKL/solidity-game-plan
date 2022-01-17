@@ -17,9 +17,10 @@ After learning enough basics, start contributing. Apply for grants, submit PRs, 
 - 1/11/2022: Locked in game-plan. Time to get coding. Setup [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) complete. Finished [mapping](https://solidity-by-example.org/).
 - 1/12/2022: Spent 4.5 hours following [this](https://solidity-by-example.org/). Finished [multi-sig wallet](https://solidity-by-example.org/app/multi-sig-wallet/). Much more confident now!
 - 1/13/2022: Ugh spent like 3 hours working on [this](https://solidity-by-example.org/app/merkle-tree)... but I finally got it. Main issue was odd number of nodes in the Merkle tree was constructed incorrectly with the algorithm provided. Learning: I should have re-reviewed Merkle Tree construction again with the odd numbers to understand what was going wrong instead of trying to tweak the inputs of verification method to have a valid output.
-- 1/14/2022: No work
+- 1/14/2022: No work. OHM crashed hard so I spent time researching (ie tweets, reaffirming belief, etc).
 - 1/15/2022: Only did 3 hrs work. Stopped at ERC721
-- 1/16/2022: Only 1 hour. Got distracted w/surfing Escort websites and porn :(. Missed opportunity.
+- 1/16/2022: Only 1 hour. Got distracted w/surfing Escort websites and porn :(. Missed opportunity. OHM crashed HARD. But HOLDing.
+- 1/17/2022: ~3.5 hours studying how contract creation works (added notes below). OHM crashed super hard. Spent 1-2 hours digging.
 
 
 
