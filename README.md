@@ -24,8 +24,6 @@ After learning enough basics, start contributing. Apply for grants, submit PRs, 
 
 
 
-
-
 ### Contract Creation (notes) (1/17/2022)
 #### Accounts:
 * Can be external or contract accounts
@@ -47,3 +45,7 @@ After learning enough basics, start contributing. Apply for grants, submit PRs, 
 - Set up contract code (ex initialize state variables)
 - Place runtime bytecode somewhere in the memory and add appropriate metadata on stack to help EVM refer to that bytecode (ie offset + length).
 - Once placed in memory, executes return statement with the metadata on stack.
+
+  
+### Skin in the game as a contributor (1/18/2022)
+Its crazy how much of an impact my bags had on me as a contributor in the last few days. My eyes were constantly on prices of my bags and that prevented me from learning and growing. I have 2 years of personal runway, and the last thing I need to do is look at my bag's valuations. I need to completely stop looking at prices and focus on learning and development. I'm literally getting nothing out of looking at my bags. Let the eggs rest and hatch when time's right. I shouldn't even have to worry about liquidations because I literally borrowed like less than 10% of my OHM. Even if OHM hits as low as $40 I STILL wouldn't be liquidated! Most VCs and angel investors drop their money into something that takes a long time to liquidate. I need to also think like an angel and stop worrying too much about price volitility. From now on, I'll do my best to ignore prices and stay grounded and focus on my original mission and goal.
