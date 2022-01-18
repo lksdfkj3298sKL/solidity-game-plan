@@ -21,6 +21,7 @@ After learning enough basics, start contributing. Apply for grants, submit PRs, 
 - 1/15/2022: Only did 3 hrs work. Stopped at ERC721
 - 1/16/2022: Only 1 hour. Got distracted w/surfing Escort websites and porn :(. Missed opportunity. OHM crashed HARD. But HOLDing.
 - 1/17/2022: ~3.5 hours studying how contract creation works (added notes below). OHM crashed super hard. Spent 1-2 hours digging.
+- 1/18/2022: Wasted an entire hour by including a wrong openzapplin import from tutorial. Researched for an hour by googling error code instead of checking Openzapplin Github page to make sure import is correct. Ugh.
 
 
 
